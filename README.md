@@ -17,7 +17,7 @@
 | [Разработка алгоритма для защиты данных](https://github.com/AnatolySA/Yandex_Practicum/tree/master/10_personal_information_protection)| Страховая сфера | Защита личной информации клиентов страховой компании методом преобразования данных | *matplotlib, numpy, pandas, phik, sklearn* |
 | [Предсказание цены автомобиля](https://github.com/AnatolySA/Yandex_Practicum/tree/master/11_car_price)| Ретейл/E-commerce, интернет-магазины | Разработка модели для определения рыночной стоимости автомобиля | *catboost, lightgbm, numpy, pandas, phik, sklearn* |
 | [Предсказание заказов такси](https://github.com/AnatolySA/Yandex_Practicum/tree/master/12_taxi_order_forecasting)| Ретейл/E-commerce, интернет-сервисы | Разработка модели для предсказания количества заказов такси на следующий час | *catboost, lightgbm, matplotlib, numpy, pandas, sklearn, statsmodels, seaborn* |
-| [Отток клиентов из телеком](https://github.com/AnatolySA/Yandex_Practicum/tree/master/13_steel_temperature_prediction)| Промышленность | Прогнозирование температуры стали для уменьшения потребления электроэнергии на этапе обработки стали | *catboost, matplotlib, numpy, pandas, seaborn, sklearn, ydata_profiling* |
+| [Прогнозирование температуры стали](https://github.com/AnatolySA/Yandex_Practicum/tree/master/13_steel_temperature_prediction)| Промышленность | Прогнозирование температуры стали для уменьшения потребления электроэнергии на этапе обработки стали | *catboost, matplotlib, numpy, pandas, seaborn, sklearn, ydata_profiling* |
 
 *Контакты:*
 1. телефон: +79833964819 (WhatssApp)
